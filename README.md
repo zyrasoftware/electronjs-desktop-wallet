@@ -1,4 +1,4 @@
-# Buy Zyros TOKEN from BLUM7
+# Buy Zyros TOKEN from BLUM
 [Blum](https://t.me/blum/app?startapp=memepadjetton_ZYROS_VvycR-ref_bwyZNQEA2u) 
 DON'T SELL ZYROS
 

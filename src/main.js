@@ -15,7 +15,7 @@ const createWindow = () => {
       preload: MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY,
     },
     autoHideMenuBar: true,
-    icon: "src/assest/gh.png"
+    icon: "src/assest/zyros.jpg"
     
   });
 

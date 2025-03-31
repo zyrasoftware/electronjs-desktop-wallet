@@ -27,5 +27,5 @@ If everything works fine, start editing `App.jsx`.
 
 ## Screenshot
 
-![Project Screenshot](https://i.hizliresim.com/lu5g2t4.jpg)
+![Project Screenshot](./lu5g2t4.jpg)
 ![Project Screenshot](./80b60gg.jpg)
